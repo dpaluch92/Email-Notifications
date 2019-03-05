@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_244499_email_not_mail_header</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-04 16:39:12</sys_created_on>
+        <sys_id>7ecca6a40f887300ebdfba8ce1050e6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_244499_email_not_mail_header</sys_name>
+        <sys_package display_value="Email Notifications" source="x_244499_email_not">f8f66a280f487300ebdfba8ce1050e48</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Email Notifications">f8f66a280f487300ebdfba8ce1050e48</sys_scope>
+        <sys_update_name>ua_table_licensing_config_7ecca6a40f887300ebdfba8ce1050e6b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-04 16:39:12</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Mail Header" max_length="40" name="x_244499_email_not_mail_header" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Active" max_length="40" name="u_active" type="boolean"/>
+        <element label="HTML" max_length="8000" name="u_html" type="html"/>
+        <element display="true" label="Name" max_length="40" name="u_name" type="string"/>
+        <element label="Short_description" max_length="100" name="u_short_description" type="string"/>
+    </element>
+</database>

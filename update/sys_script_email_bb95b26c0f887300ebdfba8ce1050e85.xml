@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_email">
+    <sys_script_email action="INSERT_OR_UPDATE">
+        <name>mail_script_util_header</name>
+        <new_lines_to_html>false</new_lines_to_html>
+        <script><![CDATA[template.print(new MailScriptUtil().getHTML('header'));]]></script>
+        <sys_class_name>sys_script_email</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-04 17:19:02</sys_created_on>
+        <sys_id>bb95b26c0f887300ebdfba8ce1050e85</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mail_script_util_header</sys_name>
+        <sys_package display_value="Email Notifications" source="x_244499_email_not">f8f66a280f487300ebdfba8ce1050e48</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Email Notifications">f8f66a280f487300ebdfba8ce1050e48</sys_scope>
+        <sys_update_name>sys_script_email_bb95b26c0f887300ebdfba8ce1050e85</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-04 17:19:02</sys_updated_on>
+    </sys_script_email>
+</record_update>
